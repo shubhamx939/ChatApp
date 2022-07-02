@@ -1,4 +1,3 @@
-
 # Chat Application
 
 A simple real time chat application that covers Django authorization, web sockets and authentication.
